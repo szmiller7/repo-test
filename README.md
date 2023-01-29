@@ -6,7 +6,6 @@
 # Other commands
 - git status
 - git branch
-- git checkout -b feature
-    -> creates a new branch
 
-s
+# Branch 
+- git checkout -b feature-branch
