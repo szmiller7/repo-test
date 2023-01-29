@@ -19,3 +19,4 @@
     -> switch to branch "branch_name"
 - git diff other_branch_name
     -> show what changes have been made (current branch vs other brand)
+
