@@ -1,4 +1,4 @@
-# Add
+# Add - Commit - Push 
 - git add .
     -> stage changes in the working directory to the Git index (staging area) before committing them
 - git commit -m "description"
@@ -19,4 +19,6 @@
     -> switch to branch "branch_name"
 - git diff other_branch_name
     -> show what changes have been made (current branch vs other brand)
+
+# Pull request
 
